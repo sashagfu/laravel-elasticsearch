@@ -6,3 +6,5 @@
 ## Elasticsearch in your Laravel App
 
 [Original article](https://madewithlove.com/how-to-integrate-elasticsearch-in-your-laravel-app-2019-edition/).
+
+[Translated article](https://laravel.demiart.ru/configuring-elasticsearch-in-laravel/).
